@@ -23,11 +23,15 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Dossier for all information on domaining.
   How to buy, sell domains for fun and profit.
-  All information provided will
+  We focus on understanding how things work from every angle be it technical, financial,
+  valuation and the like.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: null
+github_username:  toolsforproductivity
+repository: toolsforproductivity/domaining
+
+google_analytics: G-CZ19Q6YCM7
 
 # Build settings
 theme: jekyll-theme-slate
