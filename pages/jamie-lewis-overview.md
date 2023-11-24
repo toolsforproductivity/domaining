@@ -6,12 +6,10 @@ jamie_lewis_ultimate_domain_sale: DHqTF3j4veo
 jamie_lewis_ten_dollar_domains: cXW2IYRhAxI
 ---
 
-
-
 ## [<< Back to Index]({{ site.baseurl }}{% link index.markdown %})
 {:.no_toc}
 
-* 
+* Table Of Contents
 {:toc}
 
 ## How to Find 10$ Domain And Sell Them For ...

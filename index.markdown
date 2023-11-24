@@ -44,6 +44,9 @@ seems to list easy strategies for beginners for domaining.
 ## [Resources][resources]
 
 Summary of relevant tools for domaining.
+
++ [Analysis](/domaining/resources#analysis)
++ [Tools And Resources](/domaining/resources#tools-and-resources)
  
 [resources]: {{ site.baseurl }}{% link pages/resources.md %}
 
