@@ -50,7 +50,17 @@ seems to list easy strategies for beginners for domaining.
 
 [affiliatemarketingmc-channel-overview]: {{ site.baseurl }}{% link pages/affiliatemarketingmc.md %}
 
-+ [Page Link][affiliatemarketingmc-channel-overview] - **Created** - Nov 25, 2023, **Last Modified** - Nov 25, 2023
++ [Page Link][affiliatemarketingmc-channel-overview] - **Created** - Nov 25, 2023, **Last Modified** - Nov 29, 2023
+
+The channel at [AffiliateMarketingDude][affiliate-marketing-dude] provides basic  approaches to making money
+online 
+
+| Title                                               | Description                      | Date           |
+|:----------------------------------------------------|:---------------------------------|:---------------|
+| [AffiliateMarketingDude][affiliate-marketing-dude]  | Affiliate Marketing Dude         |                |
+| [Free App Makes $984 Daily?][free-app-daily]        | Free App info                    | July 5, 2022   |
+| [The Real Way to Make Money Online][real-way-money] | making money online for 17 years | April 13, 2017 |
+|:----------------------------------------------------|:---------------------------------|:---------------|
 
 ## Analysis
 
@@ -66,6 +76,9 @@ Summary of relevant tools for domaining.
 + [Tools And Resources](/domaining/resources#tools-and-resources)
 + [Analysis][analysis] - to be updated soon when we have sufficient content (strategies, experience).
  
+[affiliate-marketing-dude]: https://www.youtube.com/@affiliatemarketingdude
+[free-app-daily]: https://www.youtube.com/watch?v=oAIMacMlI30
+[real-way-money]: https://www.youtube.com/watch?v=NP84p4YsSCs
 [resources]: {{ site.baseurl }}{% link resources/resources.md %}
 [analysis]: {{ site.baseurl }}{% link analysis/analysis.md %}
 [current-strategy-wip]: {{ site.baseurl }}{% link strategies/keywords-and-techniques/details.md %}
