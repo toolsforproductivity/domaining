@@ -38,6 +38,9 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
+# Uncomment line below to enable debugging ...
+# debugging: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

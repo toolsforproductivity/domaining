@@ -9,6 +9,10 @@ jamie_lewis_ten_dollar_domains: cXW2IYRhAxI
 ## [<< Back to Index]({{ site.baseurl }}{% link index.markdown %})
 {:.no_toc}
 
+**Created** - Nov 24, 2023, **Last Modified** - Nov 25, 2023
+
+------
+
 * Table Of Contents
 {:toc}
 
@@ -40,5 +44,9 @@ Thus, the above method requires minimal tools making it ideal for beginners.
   + Traffic from GoDaddy
   + Traffic from WWW (expired domain traffic)
   
+
+-----
+
+**Created** - Nov 24, 2023, **Last Modified** - Nov 25, 2023
 ## [<< Back to Index]({{ site.baseurl }}{% link index.markdown %})
 {:.no_toc}

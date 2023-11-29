@@ -17,7 +17,7 @@ Each section heading below references pages or articles within this site.
 
 ## [Jamie Lewis Overview][jamie-lewis-overview]
 
-+ [Page Link][jamie-lewis-overview] - **Created** - 24, Nov 2023, **Last Modified** - 24 Nov, 2023
++ [Page Link][jamie-lewis-overview] - **Created** - Nov 24, 2023, **Last Modified** - Nov 25, 2023
 
 | Title                                                          | Description                    | Date         |
 |:---------------------------------------------------------------|:-------------------------------|:-------------|
@@ -37,17 +37,40 @@ seems to list easy strategies for beginners for domaining.
 
 ## [Ledyard Digital Overview][daryl-ledyard-overview]
 
-+ [Page Link][daryl-ledyard-overview] - **Created** - 24, Nov 2023, **Last Modified** - 24 Nov, 2023
++ [Page Link][daryl-ledyard-overview] - **Created** - Nov 24, 2023, **Last Modified** - Nov 25, 2023
 
 [daryl-ledyard-overview]: {{ site.baseurl }}{% link pages/daryl-ledyard-overview.md %}
 
-## [Resources][resources]
+## [Jonas Nielsen Overview][jonas-nielsen-overview]
+[jonas-nielsen-overview]: {{ site.baseurl }}{% link pages/jonas-nielsen-overview.md %}
+
++ [Page Link][jonas-nielsen-overview] - **Created** - Nov 25, 2023, **Last Modified** - Nov 25, 2023
+
+## [AffiliateMarketing MC Channel][affiliatemarketingmc-channel-overview]
+
+[affiliatemarketingmc-channel-overview]: {{ site.baseurl }}{% link pages/affiliatemarketingmc.md %}
+
++ [Page Link][affiliatemarketingmc-channel-overview] - **Created** - Nov 25, 2023, **Last Modified** - Nov 25, 2023
+
+## Analysis
+
+Currently, working on the following strategy or approach to domaining
+
++ Combination of two lists with Keyword and Techniques
+  + [Current Strategy][current-strategy-wip] - combine keyword and technique words
+  + [Tool for above Strategy][current-tool-wip] using keyword and technique words - implemented with [jekyll][jekyll]
+  + [Generated result][current-result-wip] for above Strategy with current data or configuration
 
 Summary of relevant tools for domaining.
 
-+ [Analysis](/domaining/resources#analysis)
 + [Tools And Resources](/domaining/resources#tools-and-resources)
++ [Analysis][analysis] - to be updated soon when we have sufficient content (strategies, experience).
  
-[resources]: {{ site.baseurl }}{% link pages/resources.md %}
+[resources]: {{ site.baseurl }}{% link resources/resources.md %}
+[analysis]: {{ site.baseurl }}{% link analysis/analysis.md %}
+[current-strategy-wip]: {{ site.baseurl }}{% link strategies/keywords-and-techniques/details.md %}
+[current-tool-wip]: {{ site.baseurl }}{% link strategies/keywords-and-techniques/tool.md %}
+[current-result-wip]: {{ site.baseurl }}{% link strategies/keywords-and-techniques/result.md %}
+[jekyll]: https://jekyllrb.com/
 
 <hr />
